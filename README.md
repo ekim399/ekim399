@@ -1,4 +1,4 @@
-# Eugene Kim
+# Welcome to my coding garage!
 
 **Sensing Systems · Embedded Hardware · Wearable Devices · Program Management**
 BS/MS Mechanical Engineering — Georgia Institute of Technology · Atlanta, GA
