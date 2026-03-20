@@ -4,10 +4,6 @@ I'm a Mechanical Engineer with self-taught programming skills specializing in da
 
 Happy coding all! --xoxo 
 
-Skills: 
-
-**Sensing Systems · Embedded Hardware · Wearable Devices · Program Management**
-BS/MS Mechanical Engineering — Georgia Institute of Technology · Atlanta, GA
 
 ---
 
